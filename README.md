@@ -6,5 +6,3 @@ __The repository may contain:__
 2.Experimental code or documentation with no relevance or corelation with each other.  
 
 __This repository is a showcase of a beginner's effort to understand Git.__
-
-
